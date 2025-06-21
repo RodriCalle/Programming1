@@ -1,0 +1,1 @@
+D:\Projects\C++\ExcercisesOfCpp\PartnerManagement\x64\Debug\PartnerManagement.vcxproj.AssemblyReference.cache

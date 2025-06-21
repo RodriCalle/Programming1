@@ -1,0 +1,1 @@
+D:\Projects\C++\ExcercisesOfCpp\PeopleList\x64\Debug\PeopleList.vcxproj.AssemblyReference.cache

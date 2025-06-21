@@ -1,0 +1,2 @@
+D:\Projects\C++\ExcercisesOfCpp\StudentList\x64\Debug\StudentList.vcxproj.AssemblyReference.cache
+D:\Projects\C++\ExcercisesOfCpp\StudentList\x64\Debug\StudentList.exe

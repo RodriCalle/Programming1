@@ -1,0 +1,1 @@
+D:\Projects\C++\ExcercisesOfCpp\NumberGuess\x64\Debug\NumberGuess.vcxproj.AssemblyReference.cache

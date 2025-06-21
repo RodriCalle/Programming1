@@ -1,0 +1,5 @@
+﻿  PeopleList.cpp
+D:\Projects\C++\ExcercisesOfCpp\PeopleList\PeopleList.h(34,1): warning C4715: 'ListaPersonas::getElemento': no todas las rutas de acceso de control devuelven un valor
+D:\Projects\C++\ExcercisesOfCpp\PeopleList\PeopleList.cpp(36,1): warning C4700: se utilizó la variable local 'persona' sin inicializar
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  PeopleList.vcxproj -> D:\Projects\C++\ExcercisesOfCpp\x64\Debug\PeopleList.exe

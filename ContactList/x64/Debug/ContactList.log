@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  ContactList.cpp
+  Generando código...
+D:\Projects\C++\ExcercisesOfCpp\ContactList\Contact.h(44,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/ContactList.cpp")
+  
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ContactList.vcxproj -> D:\Projects\C++\ExcercisesOfCpp\x64\Debug\ContactList.exe

@@ -1,0 +1,1 @@
+D:\Projects\C++\ExcercisesOfCpp\CharConversion\x64\Debug\CharConversion.vcxproj.AssemblyReference.cache

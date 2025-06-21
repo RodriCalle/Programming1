@@ -1,0 +1,1 @@
+D:\Projects\C++\ExcercisesOfCpp\LoopExamples\x64\Debug\LoopExamples.vcxproj.AssemblyReference.cache

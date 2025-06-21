@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  StudentCourse.cpp
+  Generando código...
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  StudentCourse.vcxproj -> D:\Projects\C++\ExcercisesOfCpp\x64\Debug\StudentCourse.exe

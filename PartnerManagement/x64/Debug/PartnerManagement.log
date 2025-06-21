@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  PartnerManagement.cpp
+D:\Projects\C++\ExcercisesOfCpp\PartnerManagement\Management.h(19,23): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/PartnerManagement.cpp")
+  
+D:\Projects\C++\ExcercisesOfCpp\PartnerManagement\Management.h(24,25): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "/PartnerManagement.cpp")
+  
+  Generando código...
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  PartnerManagement.vcxproj -> D:\Projects\C++\ExcercisesOfCpp\x64\Debug\PartnerManagement.exe
